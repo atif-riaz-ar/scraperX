@@ -1,0 +1,8 @@
+pip install autopep8==1.6.0
+pip install ipython==8.4.0
+pip install parsel==1.6.0
+pip install pip-chill==1.0.1
+pip install pyopenssl==22.0.0
+pip install pysocks==1.7.1
+pip install selenium==4.3.0
+pip install webdriver-manager==3.8.2
